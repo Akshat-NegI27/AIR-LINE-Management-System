@@ -65,7 +65,17 @@ This project is a web-based airline booking management system designed to stream
 
 ## Screenshots
 
+  ![Home](https://github.com/Akshat-NegI27/AIR-LINE-Management-System/blob/main/Screenshots/%20(1).png?raw=true)
 
+  ![Booking](https://github.com/Akshat-NegI27/AIR-LINE-Management-System/blob/main/Screenshots/%20(2).png?raw=true)
+
+  ![About](https://github.com/Akshat-NegI27/AIR-LINE-Management-System/blob/main/Screenshots/%20(3).png?raw=true)
+
+  ![Contact](https://github.com/Akshat-NegI27/AIR-LINE-Management-System/blob/main/Screenshots/%20(5).png?raw=true)
+
+  ![Login Page](https://github.com/Akshat-NegI27/AIR-LINE-Management-System/blob/main/Screenshots/%20(7).png?raw=true)
+  
+  ![Sign Up Page](https://github.com/Akshat-NegI27/AIR-LINE-Management-System/blob/main/Screenshots/%20(8).png?raw=true)
 
 ## Future Enhancements
 

@@ -21,7 +21,7 @@
 			   
 			   <div class="nav-menu" id="navMenu">
 				   <ul>
-					   <li><a href="welcome.html" class="link ">Home</a></li>
+					   <li><a href="index.php" class="link ">Home</a></li>
 					   <li><a href="Booking.php" class="link">Booking</a></li>
 					   <li><a href="About.php" class="link">About</a></li>
 					   <li><a href="Contacts.php" class="link active">Contact Us</a></li>

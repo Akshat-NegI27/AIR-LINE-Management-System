@@ -20,7 +20,7 @@
 			   
 			   <div class="nav-menu" id="navMenu">
 				   <ul>
-					   <li><a href="welcome.html" class="link ">Home</a></li>
+					   <li><a href="index.php" class="link ">Home</a></li>
 					   <li><a href="Book.php" class="link active">Booking</a></li>
 					   <li><a href="About.php" class="link">About</a></li>
 					   <li><a href="Contacts.php" class="link">Contact Us</a></li>

@@ -16,7 +16,7 @@
 	<nav class="bar">
 		<div class="container">
 			<div class="navbar-header">
-				<a href="welcome.html" class="navbar-brand"> ADBMS</a>
+				<a href="index.php" class="navbar-brand"> ADBMS</a>
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
 	        		<span class="sr-only">Toggle navigation</span>
 	        		<span class="icon-bar"></span>
@@ -26,7 +26,7 @@
 			</div>
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"">
 				<ul class="nav navbar-nav">
-					<li ><a href="welcome.html"><strong>Home</strong></a></li>
+					<li ><a href="index.php"><strong>Home</strong></a></li>
           <li class="active"><a href="Booking.php"><strong>Booking</strong></a></li>
 					<li><a href="About.php"><strong>About</strong></a></li>
 					<li><a href="Contacts.php"><strong>Contact Us</strong></a></li>
